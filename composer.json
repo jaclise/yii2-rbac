@@ -5,14 +5,14 @@
   "type": "yii2-extension",
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/dektrium/yii2-rbac/issues?state=open",
-    "source": "https://github.com/dektrium/yii2-rbac"
+    "issues": "https://github.com/jaclise/yii2-rbac/issues?state=open",
+    "source": "https://github.com/jaclise/yii2-rbac"
   },
   "authors": [
     {
-      "name": "Dmitry Erofeev",
-      "email": "dmeroff@gmail.com",
-      "homepage": "http://dmeroff.ru"
+      "name": "jaclise",
+      "email": "jaclise@gmail.com",
+      "homepage": "https://github.com/jaclise"
     }
   ],
   "minimum-stability": "dev",
