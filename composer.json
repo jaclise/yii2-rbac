@@ -22,10 +22,10 @@
   },
   "autoload": {
     "psr-4": {
-      "dektrium\\rbac\\": ""
+      "jaclise\\rbac\\": ""
     }
   },
   "extra": {
-    "bootstrap": "dektrium\\rbac\\Bootstrap"
+    "bootstrap": "jaclise\\rbac\\Bootstrap"
   }
 }
